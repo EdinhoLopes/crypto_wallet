@@ -1,0 +1,15 @@
+{
+  "name": "crypto_wallet",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.0",
+    "notify-js-legacy": "^0.4.1"
+  },
+  "version": "1.0.0",
+  "description": "Aprendendo sobre Assets",
+  "main": "index.js",
+  "author": "Edson Lopes <edsonlopesgomes7@gmail.com>",
+  "license": "MIT"
+}
